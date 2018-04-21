@@ -1,4 +1,4 @@
-# Gitflow Simplest ERP Ever v1.0.0
+# Gitflow Simplest ERP Ever v1.0.1
 **Settings** -> protected branch para proteger push al master
 
 **git checkout** -b develop: crear nueva rama
