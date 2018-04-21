@@ -10,3 +10,5 @@
 **git status:** muestra los cambios que se han realizado desde el último add.
 
 **git push -u ...**: el -u es para setear el branch por defecto.
+
+**git merge --no-ff empleados**: Para mover las historias y se vea el cambio
